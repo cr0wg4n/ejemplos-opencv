@@ -1,6 +1,5 @@
 # Ejemplos OpenCV
 
-## Instalation 
 
 ### Virtual Enviroment
 ```
@@ -13,8 +12,14 @@ Guiwdows
 source .venv/Scripts/activate
 ```
 
-Linux
+Linus
 
 ```
 source .venv/bin/activate
+```
+
+### Instalation 
+
+```
+pip3 install -r requirements.txt
 ```
