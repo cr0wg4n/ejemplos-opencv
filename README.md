@@ -1,7 +1,7 @@
 # Ejemplos OpenCV
 
 
-### Virtual Enviroment
+### Virtual Environment
 ```
 python3 -m venv .venv 
 ```
