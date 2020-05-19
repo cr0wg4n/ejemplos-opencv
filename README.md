@@ -1,24 +1,24 @@
 # Ejemplos OpenCV
 
 
-### Virtual Enviroment
+### Virtual Environment
 ```
 python3 -m venv .venv 
 ```
 
-Guiwdows
+Windows
 
 ```
 source .venv/Scripts/activate
 ```
 
-Linus
+Linux
 
 ```
 source .venv/bin/activate
 ```
 
-### Instalation 
+### Installation 
 
 ```
 pip3 install -r requirements.txt
